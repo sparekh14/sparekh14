@@ -6,7 +6,6 @@ Computer Science student at the University of Maryland who loves building impact
 
 * 🌍  I'm based in New York, NY
 * 🖥️  See my portfolio at [samarth.dev](https://fascinating-gecko-e92876.netlify.app/)
-* ✉️  You can contact me through my [portfolio contact form](https://fascinating-gecko-e92876.netlify.app/)
 * 🚀  I'm currently co-founding **Matchrimoney** - a platform helping couples share wedding vendor costs
 * 🧠  I'm learning **Quantum Machine Learning** and exploring **Generative AI**
 * 🤝  I'm open to collaborating on **AI-powered applications**, **full-stack projects**, and **quantum computing research**
@@ -61,15 +60,6 @@ Computer Science student at the University of Maryland who loves building impact
 <a href="https://www.github.com/sparekh14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/samarthparekh14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<a href="http://www.github.com/sparekh14"><img src="https://github-readme-stats.vercel.app/api?username=sparekh14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sparekh14's GitHub stats" /></a>
-
-<a href="http://www.github.com/sparekh14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sparekh14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/sparekh14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparekh14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
 ---
 
 <div align="center">
